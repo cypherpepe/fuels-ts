@@ -1,5 +1,11 @@
 # create-fuels
 
+## 0.92.0
+
+### Patch Changes
+
+- 4a3c184: chore: upgrading `fuel-core` to `0.31.0`
+
 ## 0.91.0
 
 ### Patch Changes

@@ -1,5 +1,33 @@
 # Change Log
 
+## 0.92.0
+
+### Patch Changes
+
+- 638eae3: build(deps-dev): bump the dev-deps group with 29 updates
+- Updated dependencies [f18a570]
+- Updated dependencies [369feef]
+- Updated dependencies [638eae3]
+- Updated dependencies [4a3c184]
+- Updated dependencies [74a00be]
+- Updated dependencies [44d51ee]
+  - @fuel-ts/contract@0.92.0
+  - @fuel-ts/abi-typegen@0.92.0
+  - @fuel-ts/account@0.92.0
+  - @fuel-ts/versions@0.92.0
+  - @fuel-ts/crypto@0.92.0
+  - @fuel-ts/program@0.92.0
+  - @fuel-ts/script@0.92.0
+  - @fuel-ts/errors@0.92.0
+  - @fuel-ts/utils@0.92.0
+  - @fuel-ts/abi-coder@0.92.0
+  - @fuel-ts/address@0.92.0
+  - @fuel-ts/hasher@0.92.0
+  - @fuel-ts/math@0.92.0
+  - @fuel-ts/transactions@0.92.0
+  - @fuel-ts/merkle@0.92.0
+  - @fuel-ts/interfaces@0.92.0
+
 ## 0.91.0
 
 ### Minor Changes

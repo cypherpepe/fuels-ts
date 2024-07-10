@@ -1,5 +1,18 @@
 # @fuel-ts/abi-typegen
 
+## 0.92.0
+
+### Patch Changes
+
+- 369feef: build(deps): bump the deps group with 2 updates
+- Updated dependencies [638eae3]
+- Updated dependencies [4a3c184]
+- Updated dependencies [44d51ee]
+  - @fuel-ts/versions@0.92.0
+  - @fuel-ts/errors@0.92.0
+  - @fuel-ts/utils@0.92.0
+  - @fuel-ts/interfaces@0.92.0
+
 ## 0.91.0
 
 ### Patch Changes
