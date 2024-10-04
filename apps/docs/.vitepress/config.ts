@@ -473,8 +473,8 @@ export default defineConfig({
                 link: '/guide/types/bech32',
               },
               {
-                text: 'Bits256',
-                link: '/guide/types/bits256',
+                text: 'B256',
+                link: '/guide/types/b256',
               },
               {
                 text: 'Bits512',
