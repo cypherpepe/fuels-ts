@@ -48,6 +48,6 @@ describe('B256 Types', () => {
     const address = Address.fromB256(randomB256);
 
     expect(address.toB256()).toEqual(randomB256);
-    // #endregion bi256-3
+    // #endregion b256-3
   });
 });
