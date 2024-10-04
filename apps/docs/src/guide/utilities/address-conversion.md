@@ -6,9 +6,9 @@ The Fuel Network uses the [`Bech32`](../types/bech32.md) address format for its 
 
 <<< @/../../docs-snippets/src/guide/types/bech32.test.ts#addresses-1{ts:line-numbers}
 
-However, a hexlified [Bits256](../types/bits256.md) (hex) is another common address format; an example can be seen below:
+However, a hexlified [b256](../types/b256.md) (hex) is another common address format; an example can be seen below:
 
-<<< @/../../docs-snippets/src/guide/types/bits256.test.ts#addresses-2{ts:line-numbers}
+<<< @/../../docs-snippets/src/guide/types/b256.test.ts#addresses-2{ts:line-numbers}
 
 At times, these can even be wrapped in a [Struct](../types/structs.md). Such as an [Asset ID](../types/asset-id.md) or a [EVM Address](../types/evm-address.md):
 
@@ -56,6 +56,6 @@ Similarly, the Wallet `address` property is also of type [`AbstractAddress`](../
 
 ## Converting an Asset ID
 
-[Asset IDs](../types/asset-id.md) are a wrapped [b256](../types/bits256.md) value. The following example shows how to create an [`Address`](../../api/Address/Address.md) from a `b256` type:
+[Asset IDs](../types/asset-id.md) are a wrapped [b256](../types/b256.md) value. The following example shows how to create an [`Address`](../../api/Address/Address.md) from a `b256` type:
 
 <<< @/../../docs-snippets/src/guide/types/conversion.test.ts#conversion-4{ts:line-numbers}
